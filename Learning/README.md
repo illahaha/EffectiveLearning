@@ -14,7 +14,7 @@
         
         - [抓住不变量](./essential-knowledge.md)
         - [学会思考](./always-thinking.md)
-        - [如何读书？](./how-to-read-books.md)
+        - [如何读书？](./how-to-read-the-books.md)
         - [如何处理优质文章？](./how-to-deal-with-the-articles.md)
         - [学习的密度与专注力](./the-focus-of-learning.md)
         - [学习与记忆](./learning-and-memory.md)
